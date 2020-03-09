@@ -1,2 +1,2 @@
-﻿Git is a vision control system.
+﻿Git is a distribute vision control system.
 Giti is free software.
